@@ -4,7 +4,7 @@
   "description": "",
   "main": "Garage_Racing_UZ.html",
   "scripts": {
-    "start": "serve . --single --listen $PORT"
+    "start": "npx serve . --single --listen $PORT"
   },
   "repository": {
     "type": "git",
