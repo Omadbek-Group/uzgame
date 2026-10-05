@@ -2,9 +2,9 @@
   "name": "uzgame",
   "version": "1.0.0",
   "description": "",
-  "main": "m_gentra.js",
+  "main": "Garage_Racing_UZ.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "serve . -l $PORT"
   },
   "repository": {
     "type": "git",
